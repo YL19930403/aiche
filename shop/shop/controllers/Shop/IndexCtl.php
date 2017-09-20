@@ -30,6 +30,11 @@ class Shop_IndexCtl extends Controller
 		$this->cat = $this->catIndex();
 	}
 
+	public  function  edit(){
+
+    }
+
+
 	/**
 	 * 首页
 	 *
